@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💻 K-BlueWalkerの修業ノート
 
-<!--
-**K-BlueWalker/K-BlueWalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+こんにちは！
+高校まではパソコンとは無縁でフォルダってなに？って感じでWindowsとMacの違いもよく分かりませんでした笑
+大学受験に失敗して人生どん底でしたがVIVANTのブルーウォーカーに憧れてホワイトハッカーを目指して修行中です！！
 
-Here are some ideas to get you started:
+##  現在取り組んでること
+-- Bandit攻略中(現在Lv27)
+-- TryHackMeで基礎固め
+-- GitHub・X・noteで発信
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 使用ツール
+-- Linux
+-- ChatGPT(成長をサポートしてもらってます！)
+
+応援よろしくお願いします！！！
